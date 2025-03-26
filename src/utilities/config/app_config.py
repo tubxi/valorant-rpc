@@ -7,7 +7,7 @@ from ...localization.locales import Locales
 from ...localization.localization import Localizer
 
 default_config = {
-    "version": "v3.2.3",
+    "version": "v3.3.0",
     "region": ["",Client.fetch_regions()],
     "client_id": 1354173612487213268,
     "presence_refresh_interval": 3,
@@ -31,7 +31,7 @@ default_config = {
     "startup": {
         "game_launch_timeout": 50,
         "presence_timeout": 60,
-        "show_github_link": False,
+        "show_github_link": True,
         "auto_launch_skincli": True,
     },
 }
