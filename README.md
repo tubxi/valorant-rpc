@@ -36,7 +36,7 @@
  
 ## Installation
 
- - Download the latest [release](https://github.com/colinhartigan/valorant-rpc/releases/latest/download/valorant-rpc.exe) and run it.
+ - Download the latest [release](https://github.com/tubxi/valorant-rpc/releases/latest/download/valorant-rpc.exe) and run it.
 
  
  
@@ -68,13 +68,13 @@
 [discord-url]: https://discord.gg/uGuswsZwAT
 [discord-banner]: https://discordapp.com/api/guilds/860288779558715402/widget.png?style=banner2
 [license-shield]: https://img.shields.io/github/license/colinhartigan/valorant-rpc?style=for-the-badge
-[license-url]: https://github.com/colinhartigan/valorant-rpc/blob/v3/LICENSE.txt
+[license-url]: https://github.com/tubxi/valorant-rpc/blob/v3/LICENSE.txt
 
 [stars-shield]: https://img.shields.io/github/stars/colinhartigan/valorant-rpc?logo=github&style=for-the-badge
-[stars-url]: https://github.com/Tubix0/valorant-rpc/stargazers
+[stars-url]: https://github.com/tubxi/valorant-rpc/stargazers
 
 [releases-shield]: https://img.shields.io/github/downloads/colinhartigan/valorant-rpc/total?style=for-the-badge
-[releases-url]: https://github.com/Tubix0/valorant-rpc/releases
+[releases-url]: https://github.com/tubxi/valorant-rpc/releases
 
 [language-shield]: https://img.shields.io/github/languages/top/colinhartigan/valorant-rpc?logo=python&logoColor=yellow&style=for-the-badge
 [language-url]: https://www.python.org/
