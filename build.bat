@@ -28,9 +28,9 @@ if '%errorlevel%' NEQ '0' (
     pushd "%CD%"
     CD /D "%~dp0"
 :--------------------------------------    
-	"C:/Program Files/Python39/python.exe" -m pipreqs.pipreqs --force --no-pin
-    "C:/Program Files/Python37/python.exe" -m pip install -r requirements.txt
-    "C:/Program Files/Python37/python.exe" -m pip install -r requirements.txt --upgrade
-    "C:/Program Files/Python37/python.exe" -m PyInstaller main.py --name="valorant-rpc" --icon=favicon.ico --hidden-import "pystray._win32" --onefile --version-file "version.py"
+	"C:\Users\hoche\Documents\StabilityMatrix-win-x64\tout\Assets\Python310\python.exe" -m pipreqs.pipreqs --force --no-pin
+    "C:\Users\hoche\Documents\StabilityMatrix-win-x64\tout\Assets\Python310\python.exe" -m pip install -r requirements.txt
+    "C:\Users\hoche\Documents\StabilityMatrix-win-x64\tout\Assets\Python310\python.exe" -m pip install -r requirements.txt --upgrade
+    "C:\Users\hoche\Documents\StabilityMatrix-win-x64\tout\Assets\Python310\python.exe" -m PyInstaller main.py --name="valorant-rpc" --icon=favicon.ico --hidden-import "pystray._win32" --onefile --version-file "version.py"
     pause
 
