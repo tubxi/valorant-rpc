@@ -64,9 +64,9 @@
  
  
  
-[discord-shield]: https://img.shields.io/discord/860288779558715402?color=7289da&label=Support&logo=discord&logoColor=7289da&style=for-the-badge
-[discord-url]: https://discord.gg/uGuswsZwAT
-[discord-banner]: https://discordapp.com/api/guilds/860288779558715402/widget.png?style=banner2
+[discord-shield]: https://img.shields.io/discord/938509236906917982?color=7289da&label=Support&logo=discord&logoColor=7289da&style=for-the-badge
+[discord-url]: https://discord.gg/8SRNkCGDjk
+[discord-banner]: https://discordapp.com/api/guilds/938509236906917982/widget.png?style=banner2
 [license-shield]: https://img.shields.io/github/license/tubxi/valorant-rpc?style=for-the-badge
 [license-url]: https://github.com/tubxi/valorant-rpc/blob/v3/LICENSE.txt
 
@@ -76,10 +76,10 @@
 [releases-shield]: https://img.shields.io/github/downloads/tubxi/valorant-rpc/total?style=for-the-badge
 [releases-url]: https://github.com/tubxi/valorant-rpc/releases
 
-[language-shield]: https://img.shields.io/github/languages/top/colinhartigan/valorant-rpc?logo=python&logoColor=yellow&style=for-the-badge
+[language-shield]: https://img.shields.io/github/languages/top/tubxi/valorant-rpc?logo=python&logoColor=yellow&style=for-the-badge
 [language-url]: https://www.python.org/
 
 [kofi-shield]: https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white
-[kofi-url]: https://ko-fi.com/colinh
+[kofi-url]: https://ko-fi.com/tubix
 
 
