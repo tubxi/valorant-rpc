@@ -18,7 +18,7 @@ class Range_Session:
         self.start_time = time.time()
         self.map_name, self.mode_name = Utilities.fetch_map_data(data, content_data)
         self.map_image = "splash_range"
-        self.small_image = "mode_unrated"
+        self.small_image = None
         self.small_text = None
 
         if Localizer.get_config_value("presences","modes","range","show_rank_in_range"):
