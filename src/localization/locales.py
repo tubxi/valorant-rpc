@@ -577,9 +577,9 @@ Locales = {
         },
         "presences": {
             "party_states": {
-                "open": "Partie ouverte",
+                "open": "Groupe ouvert",
                 "solo": "Solo",
-                "in_party": "Dans une Partie",
+                "in_party": "Dans un groupe",
             },
             "client_states": {
                 "away": "Absent",

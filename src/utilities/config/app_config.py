@@ -10,7 +10,7 @@ default_config = {
     "version": "v3.3.2",
     "region": ["",Client.fetch_regions()],
     "client_id": 1354173612487213268,
-    "presence_refresh_interval": 3,
+    "presence_refresh_interval": 1.3,
     "locale": ["",[locale for locale,data in Locales.items() if data != {}]],
     "presences": {
         "menu": {
