@@ -12,7 +12,7 @@
 [![Language][language-shield]][language-url]
 [![License][license-shield]][license-url]
 
-# [NEW GITHUB FORK LINK 😋](https://github.com/krvntzkl/valorant-rpc)
+# [🗨️ NEW GITHUB FORK LINK 😋](https://github.com/krvntzkl/valorant-rpc)
 
   <ol>  
     <li><a href="#about">About</li>
@@ -83,6 +83,7 @@
 
 [kofi-shield]: https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white
 [kofi-url]: https://ko-fi.com/tubix
+
 
 
 
